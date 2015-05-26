@@ -1,5 +1,5 @@
 {
-    "name": "meditsimple/twilio",
+    "name": "meditsimple/laravel-twilio",
     "description": "Twilio API for Laravel 4",
     "type": "library",
     "keywords": ["sms","ivr","laravel4","twilio"],
