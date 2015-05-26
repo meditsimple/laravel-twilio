@@ -1,5 +1,5 @@
 {
-    "name": "aloha/twilio",
+    "name": "meditsimple/twilio",
     "description": "Twilio API for Laravel 4",
     "type": "library",
     "keywords": ["sms","ivr","laravel4","twilio"],
@@ -13,11 +13,11 @@
             "email": "vandevreken.hannes@gmail.com"
         }
     ],
-    "homepage":"https://github.com/aloha/laravel-twilio",
+    "homepage":"https://github.com/meditsimple/laravel-twilio",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
-        "twilio/sdk":"~3.12"
+        "twilio/sdk":"~4.2"
     },
     "require-dev": {
         "illuminate/support": "~4||~5",
